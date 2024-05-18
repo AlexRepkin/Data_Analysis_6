@@ -1,0 +1,1 @@
+SELECT "Country Name", MAX("2000") AS Max2000 FROM dataset;

@@ -1,0 +1,1 @@
+SELECT "Country Name", AVG("1960") AS Avg1960, AVG("1961") AS Avg1961, AVG("1962") AS Avg1962 FROM dataset GROUP BY "Country Name";
